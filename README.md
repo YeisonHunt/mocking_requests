@@ -1,2 +1,5 @@
 # Mocking TypeScript classes with Jest
-This repository holds the code for the "Mocking TypeScript classes with Jest" Medium post.
+
+Just install with `npm install` and then run : `npm run test`
+
+This is part of the series to become an outstanding JS developer.
